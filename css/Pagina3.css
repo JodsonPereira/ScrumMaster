@@ -21,8 +21,18 @@
     min-height: 15vh;
     margin: 10px;
     padding: 20px;
-    
+ }
 
+ .caixatopo2{
+  width: ;
+  height: 120px;
+  background-color: #fff;
+  border-radius: 25px;
+  padding: 20px;
+  min-height: 15vh;
+  margin: 10px;
+  padding: 20px;
+  border: solid 2px black;
  }
 
  #horario{
@@ -73,7 +83,13 @@ button {
     margin-top: 350px;
 
 }
-.bold{
-    font-weight: bold;
-    
+
+#barra{
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid 2px black;
+  padding: 20px;
+  text-align: center;
+  margin-top: 342px;
+  background-color: #074496;
 }
