@@ -18,6 +18,7 @@
     min-height: 15vh;
     margin: 10px;
     padding: 20px;
+    border: solid 2px black;
     
  }
 
@@ -33,6 +34,8 @@
     margin: 10px;
     margin-top: 60px;
     padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: solid 2px black;
     
  }
  
@@ -45,9 +48,10 @@
     padding: 150px;
     min-height: 15vh;
     margin: 10px;
-    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px;
     display: block;
+    border: solid 2px black;
     
  }
  .caixatopo4{
@@ -59,8 +63,9 @@
     padding: 150px;
     min-height: 15vh;
     margin: 10px;
-   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px;
+    border: solid 2px black;
     
  }
  #Telefone{
@@ -107,3 +112,13 @@ button {
     position: absolute;
     right: 170px;
   }
+
+  #barra{
+   color: #fff;
+   font-family: Arial, Helvetica, sans-serif;
+   border: solid 2px black;
+   padding: 20px;
+   text-align: center;
+   background-color: #074496;
+ }
+ 

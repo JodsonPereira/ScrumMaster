@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;box-sizing: border-box;}
+
+body{
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: rgb(36, 138, 201, 1);
+  }
+
+  button{
+    background-color: white;
+    padding: 20px;
+    border: solid black 2px;
+    border-radius: 20px;
+    text-transform: uppercase;
+  }

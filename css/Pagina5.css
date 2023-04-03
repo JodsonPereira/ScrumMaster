@@ -19,17 +19,8 @@
     min-height: 15vh;
     margin: 10px;
     padding: 20px;
-    
-
+    border: solid 2px black;
 }
-
-/* .alocacao{
-    display:flexbox;
-    justify-content:;
-    align-items: center;
-    flex-wrap:wrap;
-
-} */
 
 #horario{
     position:absolute;
@@ -53,6 +44,7 @@
     min-height: 15vh;
     margin: 10px;
     padding: 20px;
+    border: solid 2px black;
 }
 .Prontuario{
     border: 3px solid black;
@@ -65,7 +57,6 @@
     background-color:rgba(36, 138, 201, 1);
     color: white;
     border-radius: 20px;
-    
 }
 .Nome{
     border: 3px solid black;
@@ -93,8 +84,7 @@
     right: 1px;
     bottom: 310px;
     text-align: center;
-
-    
+    border: solid 2px black;
 
 }
 
@@ -104,32 +94,30 @@
     color: black;
     border-radius: 15px;
     transition: 2s;
-    text-align: center; 
+    text-align: center;
     text-transform:capitalize;
     padding: 18px;
     transition: 1s;
     justify-content: center;
     align-items: center;
     font-size:20px;
-    
-    
-    
+    text-decoration: none;
 }
 .btn:hover {
     background-color:rgba(36, 138, 201, 1);
+    padding: 20px;
 }
 
-footer{
-    background-color: rgba(7, 68, 150, 1);
-    color: black;
-    border-top: 2px;
-    padding: 17px;
+#barra{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 2px black;
+    padding: 20px;
     text-align: center;
-    position:relative;
-    height: 10px;
-    margin-top: 282px;
+    background-color: #074496;
+    margin-top: 246px;
+  }
 
-}
 .bold{
     font-weight: bold;
     
