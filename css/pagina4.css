@@ -1,4 +1,4 @@
-*{margin: 0;padding: 0; box-sizing: border-box;}
+*{margin: 10;padding: 10; box-sizing: border-box;}
 
 .container{
     display: flex;
@@ -28,14 +28,13 @@ button{
     border-radius: 20px;
     transition: 5px;
 }
-
 a{
     background-color: white;
-    border-radius: 20px ;
     border: solid 2px black;
+    border-radius: 20px;
     padding: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 600px;
     text-decoration: none;
+    margin-left: 600px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
 }
