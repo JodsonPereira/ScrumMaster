@@ -28,3 +28,14 @@ button{
     border-radius: 20px;
     transition: 5px;
 }
+
+a{
+    background-color: white;
+    border-radius: 20px ;
+    border: solid 2px black;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 600px;
+    text-decoration: none;
+    color: black;
+}
